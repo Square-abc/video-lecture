@@ -4,7 +4,6 @@
 
 > 🎯 无需安装，打开浏览器即可使用。适配手机、平板、电脑。
 
-![主界面](screenshots/main.png)
 
 ## ✨ 功能特性
 
@@ -39,7 +38,7 @@
 ### 方法一：在线使用（推荐）
 
 访问 GitHub Pages 版本：
-👉 **https://你的用户名.github.io/video-lecture/**
+👉 **https://shuci-camera.netlify.app**
 
 ### 方法二：本地运行
 
