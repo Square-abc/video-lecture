@@ -4,6 +4,7 @@
 
 > 🎯 无需安装，打开浏览器即可使用。适配手机、平板、电脑。
 
+![主界面](https://beeimg.us.ci/temp/fd0f884558882432cfed26574524308d.jpg)
 
 ## ✨ 功能特性
 
@@ -37,9 +38,11 @@
 
 ### 方法一：在线使用（推荐）
 
-访问 GitHub Pages 版本：
+访问网站：
 👉 **https://shuci-camera.netlify.app**
-
+shuci主站:
+  **https://tools5.netlify.app**
+  
 ### 方法二：本地运行
 
 ⚠️ **注意**：由于浏览器安全策略，**直接双击打开 HTML 文件无法访问摄像头**，必须通过 HTTP/HTTPS 访问。
